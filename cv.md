@@ -12,4 +12,12 @@ My name is Karina. I am Karina Klechkovskaya. I am 24 years old, I work as an ac
 - HTML
 - CSS
 - Version control: Git (remote service GitHub).
-# Code Example
+## Education
++ **Belarusian State Economic University**
+    - accountant/economist
++ **HTML Academy**
+    - basics HTML/CSS
+## Languages
++ Russian - native speaker.
++ Polish - A1
++ English - B1
